@@ -1,0 +1,5 @@
+Scala Pro：Scala完成的 FM与LR模型
+scala_feature_processing：特征处理方法辅助类。
+scala_feature_processing_lib：特征处理方法类，可以直接通过new创建，使用例子在scala_feature_processing_test
+scala_feature_processing_test：特征处理方法类的测试例子。
+tool_class：把spark的private基类搬出来，以及一些常用的预处理方法，求均值、方差等。
